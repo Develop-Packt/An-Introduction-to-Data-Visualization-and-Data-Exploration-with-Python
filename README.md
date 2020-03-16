@@ -1,4 +1,4 @@
-# Importance of Data Visualization and Data Exploration
+# An Introduction to Data Visualization and Data Exploration with Python
 [![GitHub issues](https://img.shields.io/github/issues/Develop-Packt/An-Introduction-to-Data-Visualization-and-Data-Exploration-with-Python.svg)](https://github.com/Develop-Packt/An-Introduction-to-Data-Visualization-and-Data-Exploration-with-Python/issues)
 [![GitHub forks](https://img.shields.io/github/forks/Develop-Packt/An-Introduction-to-Data-Visualization-and-Data-Exploration-with-Python.svg)](https://github.com/Develop-Packt/An-Introduction-to-Data-Visualization-and-Data-Exploration-with-Python/network)
 [![GitHub stars](https://img.shields.io/github/stars/Develop-Packt/An-Introduction-to-Data-Visualization-and-Data-Exploration-with-Python.svg)](https://github.com/Develop-Packt/An-Introduction-to-Data-Visualization-and-Data-Exploration-with-Python/stargazers)
