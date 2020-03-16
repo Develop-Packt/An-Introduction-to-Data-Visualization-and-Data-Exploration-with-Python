@@ -1,5 +1,5 @@
 # Importance of Data Visualization and Data Exploration
-[![GitHub issues](https://img.shields.io/github/issues/Develop-Packt/Importance-of-Data-Visualization-and-Data-Exploration.svg)](https://github.com/Develop-Packt/Importance-of-Data-Visualization-and-Data-Exploration/issues)
-[![GitHub forks](https://img.shields.io/github/forks/Develop-Packt/Importance-of-Data-Visualization-and-Data-Exploration.svg)](https://github.com/Develop-Packt/Importance-of-Data-Visualization-and-Data-Exploration/network)
-[![GitHub stars](https://img.shields.io/github/stars/Develop-Packt/Importance-of-Data-Visualization-and-Data-Exploration.svg)](https://github.com/Develop-Packt/Importance-of-Data-Visualization-and-Data-Exploration/stargazers)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Develop-Packt/Importance-of-Data-Visualization-and-Data-Exploration/pulls)
+[![GitHub issues](https://img.shields.io/github/issues/Develop-Packt/An-Introduction-to-Data-Visualization-and-Data-Exploration-with-Python.svg)](https://github.com/Develop-Packt/An-Introduction-to-Data-Visualization-and-Data-Exploration-with-Python/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Develop-Packt/An-Introduction-to-Data-Visualization-and-Data-Exploration-with-Python.svg)](https://github.com/Develop-Packt/An-Introduction-to-Data-Visualization-and-Data-Exploration-with-Python/network)
+[![GitHub stars](https://img.shields.io/github/stars/Develop-Packt/An-Introduction-to-Data-Visualization-and-Data-Exploration-with-Python.svg)](https://github.com/Develop-Packt/An-Introduction-to-Data-Visualization-and-Data-Exploration-with-Python/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Develop-Packt/An-Introduction-to-Data-Visualization-and-Data-Exploration-with-Python/pulls)
